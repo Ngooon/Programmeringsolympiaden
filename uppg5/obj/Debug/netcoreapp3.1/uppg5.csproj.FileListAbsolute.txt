@@ -1,0 +1,13 @@
+C:\Users\Lenovo\Documents\GitHub\Programmeringsolympiaden\uppg5\bin\Debug\netcoreapp3.1\uppg5.exe
+C:\Users\Lenovo\Documents\GitHub\Programmeringsolympiaden\uppg5\bin\Debug\netcoreapp3.1\uppg5.deps.json
+C:\Users\Lenovo\Documents\GitHub\Programmeringsolympiaden\uppg5\bin\Debug\netcoreapp3.1\uppg5.runtimeconfig.json
+C:\Users\Lenovo\Documents\GitHub\Programmeringsolympiaden\uppg5\bin\Debug\netcoreapp3.1\uppg5.runtimeconfig.dev.json
+C:\Users\Lenovo\Documents\GitHub\Programmeringsolympiaden\uppg5\bin\Debug\netcoreapp3.1\uppg5.dll
+C:\Users\Lenovo\Documents\GitHub\Programmeringsolympiaden\uppg5\bin\Debug\netcoreapp3.1\uppg5.pdb
+C:\Users\Lenovo\Documents\GitHub\Programmeringsolympiaden\uppg5\obj\Debug\netcoreapp3.1\uppg5.csprojAssemblyReference.cache
+C:\Users\Lenovo\Documents\GitHub\Programmeringsolympiaden\uppg5\obj\Debug\netcoreapp3.1\uppg5.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Documents\GitHub\Programmeringsolympiaden\uppg5\obj\Debug\netcoreapp3.1\uppg5.AssemblyInfo.cs
+C:\Users\Lenovo\Documents\GitHub\Programmeringsolympiaden\uppg5\obj\Debug\netcoreapp3.1\uppg5.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Documents\GitHub\Programmeringsolympiaden\uppg5\obj\Debug\netcoreapp3.1\uppg5.dll
+C:\Users\Lenovo\Documents\GitHub\Programmeringsolympiaden\uppg5\obj\Debug\netcoreapp3.1\uppg5.pdb
+C:\Users\Lenovo\Documents\GitHub\Programmeringsolympiaden\uppg5\obj\Debug\netcoreapp3.1\uppg5.genruntimeconfig.cache
